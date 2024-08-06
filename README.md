@@ -1,14 +1,12 @@
-# monokai.terminal
-The Monokai color scheme for OS X Terminal and iTerm
+# monokai-nautical.terminal
+A nautical-flavored Monokai theme for OS X Terminal and iTerm
 
-
-![screenshot](screenshot.png)
 
 ## How to install
 
-1. Clone the repository `git clone git://github.com/stephenway/monokai.terminal.git`
-2. Open the `Monokai.terminal` or `Monokai.itermcolors` file to install.
-3. Optionally open up Terminal or iTerm  preferences for more options.
+1. Clone the repository `git clone git://github.com/cferdinandi/monokai-nautical.terminal.git`
+2. Open the `Monokai-nautical.terminal` file to install.
+3. Optionally open up Terminal  preferences for more options.
 
 ## License
 This project is licensed under the MIT [license](LICENSE).
